@@ -3,8 +3,8 @@ title: My First Post
 subtitle:
 date: 2024-10-13T14:24:40+08:00
 slug: 583bc6c
-draft: true
-author:
+draft: false
+author:Abysswalker19
   name:
   link:
   email:
