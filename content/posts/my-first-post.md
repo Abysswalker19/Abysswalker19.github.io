@@ -4,8 +4,8 @@ subtitle:
 date: 2024-10-13T14:24:40+08:00
 slug: 583bc6c
 draft: false
-author: Abysswalker19
-  name:
+author: 
+  name: Abysswalker19
   link:
   email:
   avatar:
