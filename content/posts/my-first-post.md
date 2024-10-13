@@ -1,5 +1,5 @@
 ---
-title: My First Post
+title: The Hitchhiker's Guide to the Galaxy
 subtitle:
 date: 2024-10-13T14:24:40+08:00
 slug: 583bc6c
