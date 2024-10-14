@@ -11,19 +11,19 @@
 # -------------------------------------------------------------------------------------
 
 # website title
-title = ""
+title = "The hitchhiker's guide to the galaxy"
 # Hostname (and path) to the root
-baseURL = "http://localhost:1313"
+baseURL = "https://abysswalker19.github.io"
 # theme list
 # theme = ["FixIt"] # enable in your site config file
 # determines default content language ["en", "zh-cn", "fr", "pl", ...]
-defaultContentLanguage = "en"
+defaultContentLanguage = "zh-cn"
 # language code ["en", "zh-CN", "fr", "pl", ...]
-languageCode = "en"
+languageCode = "zh-CN"
 # language name ["English", "简体中文", "Français", "Polski", ...]
-languageName = "English"
+languageName = ["简体中文", "English"]
 # whether to include Chinese/Japanese/Korean
-hasCJKLanguage = false
+hasCJKLanguage = true
 # default amount of posts in each pages
 paginate = 12
 # copyright description used only for seo schema
@@ -314,9 +314,9 @@ enableEmoji = true
   # FixIt 0.2.15 | CHANGED FixIt theme version
   version = "0.3.X" # e.g. "0.2.X", "0.2.15", "v0.2.15" etc.
   # site description
-  description = ""
+  description = "Don't Panic!"
   # site keywords
-  keywords = []
+  keywords = ["Hugo", "FixIt","blog","golang"]
   # site default theme ["light", "dark", "auto"]
   defaultTheme = "auto"
   # which hash function used for SRI, when empty, no SRI is used
@@ -348,9 +348,9 @@ enableEmoji = true
 
   # Author Configuration
   [params.author]
-    name = ""
-    email = ""
-    link = ""
+    name = "Abysswalker19"
+    email = "hlp572279558@mail.ustc.edu.cn"
+    link = "https://github.com/Abysswalker19"
     avatar = ""
 
   # FixIt 0.3.0 | NEW public Git repository information only then enableGitInfo is true
@@ -425,7 +425,7 @@ enableEmoji = true
       # URL of the LOGO
       logo = ""
       # title name
-      name = "1111111"
+      name = ""
       # you can add extra information before the name (HTML format is supported), such as icons
       pre = ""
       # you can add extra information after the name (HTML format is supported), such as icons
