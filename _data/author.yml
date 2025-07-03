@@ -1,0 +1,16 @@
+# /_data/authors.yml
+
+Abysswalker:
+  name        : "Abysswalker"
+  bio         : "What do you want, jewels? I am a very extravagant man."
+  avatar      : "/assets/images/bio.avif"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "hlp572279558@mail.ustc.edu.cn"
+    - label: "QQ"
+      icon: "fas fa-fw fa-qq"
+      url: "577279558"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Abysswalker19"
