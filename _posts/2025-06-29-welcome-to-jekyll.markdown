@@ -2,7 +2,7 @@
 layout: single
 title:  "Welcome to Jekyll!"
 date:   2025-06-29 20:43:10 +0800
-categories: jekyll update
+categories: publications
 toc_label: "Welcome to Jekyll!"
 ---
 

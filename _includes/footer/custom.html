@@ -1,0 +1,15 @@
+<!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+
+<div id="sakana-widget" style="position: fixed; right: 24px; bottom: 24px; z-index: 9999;"></div>
+<script>
+  function initSakanaWidget() {
+    new SakanaWidget().setState({i: 0.1, d: 0.90}).mount('#sakana-widget');
+  }
+</script>
+<script
+  async
+  onload="initSakanaWidget()"
+  src="https://cdn.jsdelivr.net/npm/sakana-widget@2.7.1/lib/sakana.min.js"
+></script>
